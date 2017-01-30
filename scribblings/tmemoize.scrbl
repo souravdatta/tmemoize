@@ -2,7 +2,7 @@
 
 @(require (for-label tmemoize))
 
-@title{Typed Memoize - the final frontier!}
+@title{tmemoize (Typed Memoize) - the final frontier!}
 
 A pair of basic utlities for typed racket (TR) to created memoized definitions of functions. The macro requires a specific way of defining your functions which is
 very close to a TR function definition.
