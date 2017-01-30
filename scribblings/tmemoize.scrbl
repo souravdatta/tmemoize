@@ -5,7 +5,7 @@
                     racket/base]]
 
 @title{tmemoize}
-@author{Sourav Datta (soura.jagat@gmail.com)}
+@author{Sourav Datta}
 
 @defmodule[tmemoize]
 
