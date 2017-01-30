@@ -1,6 +1,6 @@
 #lang info
 (define collection "tmemoize")
-(define deps '("typed/base"
+(define deps '("base"
                "rackunit-lib"))
 (define build-deps '("scribble-lib" "racket-doc"))
 (define scribblings '(("scribblings/tmemoize.scrbl" ())))
