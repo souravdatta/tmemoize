@@ -1,8 +1,6 @@
 #lang scribble/manual
 
 @(require (for-label tmemoize))
-@require[@for-label[tmemoize
-                    typed/racket/base]]
 
 @title{Typed Memoize - the final frontier!}
 
