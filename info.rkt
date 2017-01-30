@@ -3,7 +3,7 @@
 (define deps '("base"
                "typed-racket-lib"
                "rackunit-lib"))
-(define build-deps '("scribble-lib" "racket-doc"))
+(define build-deps '("scribble-lib" "racket-doc" "typed-racket-doc"))
 (define scribblings '(("scribblings/tmemoize.scrbl" ())))
 (define pkg-desc "This package provides basic support for memoization in typed racket")
 (define version "0.1")
