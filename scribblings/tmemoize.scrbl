@@ -2,8 +2,6 @@
 
 @(require (for-label tmemoize))
 
-@(require "../main.rkt")
-
 @title{tmemoize (Typed Memoize) - the final frontier!}
 
 A pair of basic utlities for typed racket (TR) to created memoized definitions of functions. The macro requires a specific way of defining your functions which is
