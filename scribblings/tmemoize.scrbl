@@ -2,7 +2,7 @@
 
 @(require (for-label tmemoize))
 
-@begin[(require "../main.rkt")]
+@(require "../main.rkt")
 
 @title{tmemoize (Typed Memoize) - the final frontier!}
 
